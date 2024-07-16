@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khushal Goel</h1>
 <h3 align="center">A school student passionate about Programming and Tech!</h3>
 
+<img align="right" alt="coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw2gCGgpV3A2Feei59cU5X0j&ust=1721218650665000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCpvqfFq4cDFQAAAAAdAAAAABAJ>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushalgoel&label=Profile%20views&color=0e75b6&style=flat" alt="khushalgoel" /> </p>
 
 - 🔭 I’m currently working on [Diagnosia](https://diagnosia.netlify.app/)
