@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushal Goel</h1>
 <h3 align="center">A school student passionate about Programming and Tech!</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559](https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjc5LTAyOS1wXzEtbDE2N3d4YTcucG5n.png">
+<img align="right" alt="coding" width="400" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjc5LTAyOS1wXzEtbDE2N3d4YTcucG5n.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushalgoel&label=Profile%20views&color=0e75b6&style=flat" alt="khushalgoel" /> </p>
 
