@@ -44,6 +44,10 @@
   </a> 
 </p>
 
+<h3 align="left">🏆Achievements</h3>
+<h4>Winner of multiple competitions across various schools and colleges in Delhi, including IIT Delhi and Galgotias College.</h4>
+
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushalgoel&show_icons=true&locale=en&layout=compact&langs_count=3&exclude_repo=Line-Follower" alt="khushalgoel" />
 </p>
