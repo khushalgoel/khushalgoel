@@ -45,7 +45,7 @@
 </p>
 
 <h3 align="left">🏆Achievements</h3>
-<h4>Winner of multiple competitions across various schools and colleges in Delhi, including IIT Delhi and Galgotias College.</h4>
+<h4>Winner of multiple competitions across various schools and colleges in Delhi, including IIT Delhi.</h4>
 
 
 <p>
